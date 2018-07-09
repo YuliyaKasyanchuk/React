@@ -5,9 +5,9 @@ import './App.css';
 import Grid from 'react-bootstrap/lib/Grid';
 import styled from 'styled-components';
 
-import Header from './components/header'
-import Menu from './components/menu'
-import Main from './components/main'
+import Header from './components/Header'
+import Menu from './components/Menu'
+import Main from './components/Main'
 
 
 const url = process.env.PUBLIC_URL + '/img/bg.jpg'; 

@@ -3,7 +3,7 @@ import Row from 'react-bootstrap/lib/Row';
 import Col from 'react-bootstrap/lib/Col';
 import styled from 'styled-components';
 
-import Link from './link'
+import Link from './Link'
 
 const List = styled.ul`
 	display: flex;
